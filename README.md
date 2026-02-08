@@ -28,3 +28,16 @@ The pipeline is **modular, reproducible**, and supports multiple correlation met
 ## 📂 Required Data Structure
 
 Your data must be organized as follows:
+
+your_base_directory/
+└── Subjects/
+├── sub1/
+│ ├── filtered_func_data.nii.gz
+│ ├── l_DLPFC_bin.nii.gz (or l_DLPFC_func.nii.gz)
+│ └── sgACC_bin.nii.gz (or sgACC_func.nii.gz)
+├── sub2/
+│ ├── filtered_func_data.nii.gz
+│ ├── l_DLPFC_bin.nii.gz
+│ └── sgACC_bin.nii.gz
+└── ...
+
