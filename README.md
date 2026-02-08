@@ -7,7 +7,7 @@ This Jupyter Notebook implements the **SAINT (Stanford Accelerated Intelligent N
 
 The pipeline is **modular, reproducible**, and supports multiple correlation metrics (e.g., Pearson, Spearman, Kendall’s tau). All documentation, code, and visualizations are contained within this notebook.
 
-➡️ **Open [`sanit.ipynb`](sanit.ipynb) to explore the full pipeline.**
+➡️ **Open [`SAINT-Protocol.ipynb`](https://github.com/behnam-darzi/SAINT-Protocol/blob/main/SAINT-Protocol.ipynb) to explore the full pipeline.**
 
 ---
 
